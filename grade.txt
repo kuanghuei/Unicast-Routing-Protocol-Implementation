@@ -1,0 +1,11 @@
+routing table is not presented untill stopping the algorithm
+cannot take in topology change (link state can: the tables that get printed after stopping are the result of the changes.)
+LS: no messages
+DV: a couple of messages do get through
+
+
+65/100
+
+
+partner: mzhang61
+

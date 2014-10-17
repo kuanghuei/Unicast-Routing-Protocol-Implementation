@@ -1,0 +1,2 @@
+1 4 the long way, then 1 hop, then 1, then 1
+2 1 one expensive hop, then long way, then 1 hop, then long way
